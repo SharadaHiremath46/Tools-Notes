@@ -111,6 +111,9 @@ Git Architecture Components
 ==>What is pull conflict ?
 	Conflicts we get while doing pull.(When collisions of code happens in same line then conflicts will arises)
 
+==>How do you undo local commits?
+	git reset command.There are two types hard reset and soft reset.If I do a soft reset it will undo the commit but the file will be retained in the working tree 	and file will be present in the staginf area. But If I do the hard reset then it is undo of commit but the files are removed from the working tree.
+
 
 *****************************
 GIT COMMANDS
@@ -123,5 +126,22 @@ GIT COMMANDS
 
 ==> Command to switch from master to main
 	git branch -m master main
+
+==>Command to undo the committed file
+	*To undo the commit we uses reset command.There are two types of reset one is soft reset and  hard reset.
+
+	1.soft commit
+	   git reset --soft HEAD~1 
+	*Here Head represents from top and 1 represents last but 1 commit means/last recent commit.
+	*soft reset will helps to undo changes from the local repository.But files will be preserved.The files from the working tree is not get removed.
+
+	2.Hard commit
+	  git reset --hard HEAD~1
+	*This will undo the commit from the local repository but also the files from the working tree will be removed.
+
+==>Command to undo the pushed code from central repository 
+	git revert <commit_id>
+	git push
+
 
 	 
