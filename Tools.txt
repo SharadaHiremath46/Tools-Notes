@@ -32,8 +32,6 @@ Staging area : Staging is an activity where we are selecting only those images w
 
 ==>Git Architectur
 *******************
-
-
 Git Architecture Components
 
 (A) Working Directory (Working Tree)
@@ -95,9 +93,8 @@ Git Architecture Components
 
 
 ==> README.md
-
-  	md file is a file that we are creating in github for introducing what work we have done,what this project is all about ,what modules are present in this project, what all features are present 	in this project we can add all these in md file.
-
+  	md file is a file that we are creating in github for introducing what work we have done,what this project is all about ,what modules are present in this  
+    project, what all features are present 	in this project we can add all these in md file.
 
 ==>git remote add origin <url> (grao)
       
@@ -112,10 +109,8 @@ Git Architecture Components
 ==>How many branches have you created at a given point of time in your project?
 	1 or 2
 
-
 ==>can you tell me what all types of branches were there in your project?	
 	main, dev, bug fix, R&D, change request
-
 
 ==>Tell me onething after you clone your project from github next what you were doing? Once a task is allocated how would you start working on that task?
 	
@@ -133,7 +128,6 @@ Git Architecture Components
 	*We can achieve isolation also between to task.
 	
 	*For every task that is happening in a project they will have dedicated  branch.
-
 
 ==>Difference between hotfix and bugfix?
 	
