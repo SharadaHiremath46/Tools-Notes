@@ -102,6 +102,15 @@ Git Architecture Components
 	*Hotfixing is something where the defects are find in the live environment.The application that is being used by customer in the real his business, in the  
      production server bugs are found  such things are called as hotfix.Hotfix bugs are worked on high priority.
 
+==>What is PR?
+	PR - Pull Request (Merging of branches)
+
+==>Can you give me an instance  how did you work on fixing a bug? Or Can you tell me the steps to fix the bug?
+	I will go to the required branch, in that branch I will crate a sub-branch on that sub-branch I will start working on the bug after the bug fixing is done I 	will push that branch to github then my team lead will review that code if it is fixed he will ask me to do the PR when he tells me to do the PR I wil take 	that particular bug fixing code in the branch I have worked on and I will merge with the branch which my team lead is telling me to do.
+
+==>What is pull conflict ?
+	Conflicts we get while doing pull.(When collisions of code happens in same line then conflicts will arises)
+
 
 *****************************
 GIT COMMANDS
