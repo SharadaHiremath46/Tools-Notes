@@ -126,6 +126,20 @@ Git Architecture Components
 
 ==>How your day starts ? Or first thing what you will do when you enter the office?
 	Sir,firstly I will login into my email I will check the calender what all things today is been lined up for the team, what time what meatings are there what 	is present.
+
+==>What is git pull?Why do we need it?
+	It will help me to get latest changes done in the remote repository to my local system.
+
+==>When conflicts will arise?
+	When two developers working on the same code file and same lines are being modified then conflicts will arise.
+
+==>Whta is the difference between git pull and git fetch?
+	*git pull is used to get the code from the remote repo to local repo but when we do the git pull code will load automatically to the working tree.
+	*git fetch is also used to get the code from remote repo to local repo but it will not automatically loads into working tree, we have to manually add.
+
+==>What is git stash?
+
+==>What is git cherrypic?
 	
 
 
