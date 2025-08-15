@@ -1,0 +1,37 @@
+##################################################
+MAVEN
+##################################################
+
+mvn install => creates and install a jar file into a  local repository i.e m2. 
+
+
+Maven Scopes
+----------------------
+compile => Default scope. Dependencies will be added during complie time.
+
+test => Dependencies will be added to project path during unit test.
+
+runtime => Dependencies will be added to project during runtime.
+
+provided => will add at compile time not at runtime.Means we will add the dependencies at compile time why because we need at the compile time but at run time that will be added or taken care 
+                     care by container or server.
+
+system => jar files will be available in our local system maven no need to download those dependencies.
+
+import => Importing dependencies from another maven projects.
+
+
+
+	
+  
+
+
+
+
+     
+	
+  
+
+
+
+
