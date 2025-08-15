@@ -102,6 +102,10 @@ Git Architecture Components
 	*Hotfixing is something where the defects are find in the live environment.The application that is being used by customer in the real his business, in the  
      production server bugs are found  such things are called as hotfix.Hotfix bugs are worked on high priority.
 
+
+*****************************
+GIT COMMANDS
+*******************************
 ==>Command to create branch
 	git branch <branch_name>
 
