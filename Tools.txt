@@ -108,6 +108,48 @@ Git Architecture Components
 	git rm <file_name>
 	git commit -m "msg"
 	git push
+
+==>How many branches have you created at a given point of time in your project?
+	1 or 2
+
+
+==>can you tell me what all types of branches were there in your project?	
+	main, dev, bug fix, R&D, change request
+
+
+==>Tell me onething after you clone your project from github next what you were doing? Once a task is allocated how would you start working on that task?
+	
+	*Clone the project
+	
+	*Create branch
+	
+	*I will work on that particular branch once my task is completes on that particular branch  I will inform my team lead  and my team lead will further  merge        that branch with the required  branch if changes done by me is appropriate.
+	  
+==>Can you give me an example why did you created a branch?
+	
+	*by creating another branch we can devlop or maintain our project structure without disturbing(Work flow) our main working branch project so that multiple     
+     team can work in the same  project. 
+
+	*We can achieve isolation also between to task.
+	
+	*For every task that is happening in a project they will have dedicated  branch.
+
+
+==>Difference between hotfix and bugfix?
+	
+	*When your application is still in development phase or testing phase customer is not using that particular software bugs are found we will call that as   
+      bug/defect fixing.
+	
+	*Hotfixing is something where the defects are find in the live environment.The application that is being used by customer in the real his business, in the  
+     production server bugs are found  such things are called as hotfix.Hotfix bugs are worked on high priority.
+	 
+     
+	
+  
+
+
+
+
      
 	
   
