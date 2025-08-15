@@ -1,0 +1,104 @@
+###################################
+GITHUB
+###################################
+Staging area : Staging is an activity where we are selecting only those images which we want now as a backup.
+
+==>Git Architectur
+*******************
+Git Architecture Components
+
+(A) Working Directory (Working Tree)
+
+	What it is:
+		The actual files and folders you are working on — your project in its editable state.
+
+	Key point:
+		This is where you add, modify, or delete files.
+
+	Command examples:
+
+		git status → shows modified/untracked files.
+
+		git diff → shows changes compared to last commit.
+
+(B) Staging Area (Index)
+
+	What it is:
+		A temporary holding area where you list the changes you want to commit.
+
+	Purpose:
+		Lets you prepare commits in a controlled way — you can commit only selected changes.
+
+	Command examples:
+
+		git add file.txt → moves file to staging area.
+
+		git reset file.txt → removes file from staging.
+
+(C) Local Repository (.git folder)
+
+	What it is:
+		The hidden .git folder in your project.
+		Contains all commits, tags, branches, and Git history for this repo.
+
+	Purpose:
+		Permanent storage of your code history in your machine.
+
+	Command examples:
+
+		git commit -m "message" → saves staged changes here.
+
+		git log → shows commit history.
+
+(D) Remote Repository (e.g., GitHub)
+
+           What it is:
+              A copy of your repository stored on a server (GitHub, GitLab, Bitbucket, etc.).
+
+          Purpose:
+	      Enables collaboration & backup.
+
+	 Command examples:
+
+		git push origin main → sends commits to remote.c
+
+		git pull → brings new commits from remote.
+
+
+==> README.md
+  	md file is a file that we are creating in github for introducing what work we have done,what this project is all about ,what modules are present in this  
+    project, what all features are present 	in this project we can add all these in md file.
+
+==>git remote add origin <url> (grao)      
+	why am i using this command is because after running this command it adds the remote/central repo url into my config file of local repo . By adding that url  
+  into local repo config file I am 	telling now whatever  code that i have it in my local repo  now this config file says whenever I will do a git push my code  
+  will go to this url and via this url  my code will push to git hub.
+
+==>To delete file from central repo	 
+	git rm <file_name>
+	git commit -m "msg"
+	git push
+
+==>How many branches have you created at a given point of time in your project?
+	1 or 2
+
+==>can you tell me what all types of branches were there in your project?	
+	main, dev, bug fix, R&D, change request
+
+==>Tell me onething after you clone your project from github next what you were doing? Once a task is allocated how would you start working on that task?
+	*Clone the project
+	*Create branch
+	*I will work on that particular branch once my task is completes on that particular branch  I will inform my team lead  and my team lead will further  merge        that branch with the required  branch if changes done by me is appropriate.
+	  
+==>Can you give me an example why did you created a branch?
+	*by creating another branch we can devlop or maintain our project structure without disturbing(Work flow) our main working branch project so that multiple     
+     team can work in the same  project. 
+	*We can achieve isolation also between to task.
+	*For every task that is happening in a project they will have dedicated  branch.
+
+==>Difference between hotfix and bugfix?
+	*When your application is still in development phase or testing phase customer is not using that particular software bugs are found we will call that as   
+      bug/defect fixing.
+	*Hotfixing is something where the defects are find in the live environment.The application that is being used by customer in the real his business, in the  
+     production server bugs are found  such things are called as hotfix.Hotfix bugs are worked on high priority.
+	 
