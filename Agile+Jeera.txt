@@ -1,3 +1,12 @@
-Agile
-***************
+###############################################
+AGILE
+#############################################
 ->Agile is a methodology that helps us to build the software quickly in least possible time without compromising with the quality of work.
+->In agile we get the requirement like user stories.
+
+
+Agile Terminologies
+***************************
+User Stories : User requirements.
+Product Backlog: All users stories are kept in one place which is called as product backlog.
+Sprint Backlog: Important stories are pick up and kept in the place called as sprint backlog.
