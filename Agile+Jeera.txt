@@ -10,7 +10,7 @@ Agile Terminologies
 ***************************
 1.User Stories : User requirements.Every uses story consists of business value points.
 
-2.Product Backlog: It consists of all user stories which needs to be develope.(All users stories are kept in one place which is called as product backlog)
+2.Product Backlog: It consists of all user stories which needs to be develope.(All users stories are kept in one place which is called as product backlog).It will also holds defects(testing team will pass)
 
 3.Sprint Backlog: 
 -> Important stories are pick up and kept in the place called as sprint backlog.
@@ -39,10 +39,12 @@ Agile Terminologies
 10. Sprint : It is the duration within which a working software is developed.
 -> Sprint duration always be between 2-4 weeks.
 
-11. Planning Poker activity :
+(How to give values to user activities)
+11. Planning Poker activity :This activity happens in Backlog grooming.
 -> It is a meeting that happens between business analyst and product owner to give the business value points(points to user stories).
 -> To give business value points we use poker cards.
 -> This classification helps us to decide which user story should be develope first.
+->Card numbers are given based on fibonacci series.
 
 NOTE : 1. If the work not completed within the sprint duration then we blowup the sprint and again start with new sprint and new estimation.
        2. A project will have several scrum teams.
@@ -127,4 +129,10 @@ Expected Questions on Agile:
 
 6. What is product backlog?
 -> Consists of complete user stories(all collected).
+
+7. What all meetings were you attending in your company?What used to happening in the meeting?
+
+8.Tell me if your user story point is 3 how many days it will take for you to fix?
+->In my company for user story point 3 they had allocated one day.For user story point 5 it was given 2 days.If user story point is 8 then it's 8 days.If user story point is 0 then it is 0.5 days.The number of days required for me to basically build that story should be decided in backlog grooming/meeting.
+
 
