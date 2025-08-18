@@ -46,6 +46,17 @@ Agile Terminologies
 
 NOTE : 1. If the work not completed within the sprint duration then we blowup the sprint and again start with new sprint and new estimation.
        2. A project will have several scrum teams.
+       3.People committed in the projects are called as pigs.Example developers,testors,scrum masters,product owner etc.
+       4.The one who is not committed in the project in agile is called as hen. Examples managers,vp(vice president or senior manager) in it etc.
+       5.In standup meetings only pigs are supposed to talk while hen can only attend the meeting but shouldn't talk during meeting.
+
+12. KANBAN chart :To maintain transperancy in agile among team members we prepare kanban chart.6
+
+13.Backlog Grooming: 
+
+
+
+
 
 
 
@@ -68,6 +79,21 @@ Steps in agile software development to develop software:
 5. PickedUp user stories are put into srint backlog(which consists of user stories which I will build at now).
 6. After sprint backlog I cann't develop software directly I should understand user stories. To understand user stories meeting happens between Product Owner,Testers,Developers.
 7. After discussion developers and testers should give the estimation to product owner.
+8.After that developers will start developin and after development it will go for review if review is success then software will transfer to integration.
+
+
+Advantages of Agile:
+********************************
+1.Helps us to build the software quickly.
+2.Transperancy among team members.(Who is doing what)
+3.Better communication among team members.
+4.Gives assurance of quality software.
+
+
+Disadvanages of Agile:
+******************************
+1.Manager looses his authority.
+2.We require little bit of experience to work in this process.
 
 
 
