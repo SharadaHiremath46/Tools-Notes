@@ -3,10 +3,74 @@ AGILE
 #############################################
 ->Agile is a methodology that helps us to build the software quickly in least possible time without compromising with the quality of work.
 ->In agile we get the requirement like user stories.
+->Team size in agile is 6-9.
 
 
 Agile Terminologies
 ***************************
-User Stories : User requirements.
-Product Backlog: All users stories are kept in one place which is called as product backlog.
-Sprint Backlog: Important stories are pick up and kept in the place called as sprint backlog.
+1.User Stories : User requirements.
+
+2.Product Backlog: All users stories are kept in one place which is called as product backlog.
+
+3.Sprint Backlog: Important stories are pick up and kept in the place called as sprint backlog.It consists of user stories which will be develope now or immidiate.
+
+4.Business Analyst: Collects all user stories.
+
+5.Product Owner:He will have super duper domain knowledge.He should have minimum 25yrs of experience.All business analysts are works under him.Product Owner helps tester,developer etc to understand how features should work.
+
+6.Scrum Master: Scrum Master is like manager but manager is authoritative(boss) , scrum master is facilitator.
+
+7.Spring team : Scrum master+developer+tester.
+
+8.Sprint duration :2-4 weeks.
+
+
+
+
+Sprint Planning:
+*****************************
+1.Understanding user stories.
+2.Estimation: It should be small duration (max duration 2 weeks to 4 weeks why because if time is short we will be more focused).
+
+
+Steps in agile software development to develop software:
+**********************************************************
+1. Collect user stories.
+2. Business analyst will collect user stories and will give the points to the user stories to classify user stories based on importanc. 
+3. Then user stories are kept into Product Backlog and which will handover to Product Owner he will handles product backlog further.
+4. From product backlog pickup only those user stories which can be develope maximum in 4 weeks and minimum in 2  weeks
+5. PickedUp user stories are put into srint backlog(which consists of user stories which I will build at now).
+6. After sprint backlog I cann't develop software directly I should understand user stories. To understand user stories meeting happens between Product Owner,Testers,Developers.
+7. After discussion developers and testers should give the estimation to product owner.
+
+
+
+Drawbacks of SDLC(Software Development life cycle) :
+**********************************
+1.Not clear requirement gathering.
+2.Managers are authoritative.
+3.Employee management is difficult because of large team size.
+4. Tracking of an employee is difficult who is working and who is not.
+
+
+
+Expected Questions on Agile:
+**********************************
+1.What is the sprint duration in Agile?
+-> 2-4 weeks.
+
+2. What is the ideal team size or Scrum team size in Agile?
+-> 6-9
+
+3. Who all involved in scrum team?
+-> Scrum masters + Developers + Testers.
+
+4. What were you doing in sprint planning?
+-> Understanding user stories and doing estimation.
+
+5. What is sprint backlog?
+-> It consists of user stories which will be develope now or immidiate.
+
+6. What is product backlog?
+-> Consists of complete user stories(all collected).
+
