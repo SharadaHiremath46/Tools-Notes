@@ -10,7 +10,7 @@ Agile Terminologies
 ***************************
 1.User Stories : User requirements.
 
-2.Product Backlog: All users stories are kept in one place which is called as product backlog.
+2.Product Backlog: It consists of all user stories which needs to be develope.(All users stories are kept in one place which is called as product backlog)
 
 3.Sprint Backlog: Important stories are pick up and kept in the place called as sprint backlog.It consists of user stories which will be develope now or immidiate.
 
