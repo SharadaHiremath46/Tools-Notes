@@ -1,4 +1,4 @@
-###############################################
+r###############################################
 AGILE
 #############################################
 ->Agile is a methodology that helps us to build the software quickly in least possible time without compromising with the quality of work.
@@ -8,29 +8,55 @@ AGILE
 
 Agile Terminologies
 ***************************
-1.User Stories : User requirements.
+1.User Stories : User requirements.Every uses story consists of business value points.
 
 2.Product Backlog: It consists of all user stories which needs to be develope.(All users stories are kept in one place which is called as product backlog)
 
-3.Sprint Backlog: Important stories are pick up and kept in the place called as sprint backlog.It consists of user stories which will be develope now or immidiate.
+3.Sprint Backlog: 
+-> Important stories are pick up and kept in the place called as sprint backlog.
+-> It consists of user stories which will be develope now or immidiate.
+-> All the stories kept here should be such that we can develop it within 2-4 weeks.
 
 4.Business Analyst: Collects all user stories.
 
 5.Product Owner:He will have super duper domain knowledge.He should have minimum 25yrs of experience.All business analysts are works under him.Product Owner helps tester,developer etc to understand how features should work.
+-> He is a domain expert.
+-> He maintain product backlog.
+-> He also ideally conducts sprint planning
 
 6.Scrum Master: Scrum Master is like manager but manager is authoritative(boss) , scrum master is facilitator.
 
-7.Spring team : Scrum master+developer+tester.
+7.Spring team : Scrum team consists of Scrum master+developer+tester.
+->Scrum team size should always be 6-9.
+->There will be several scrum team in the project.Workdone by the individual scrum team after the review will be integrated with the features developed by other teams in integration server. And then we once again test how will they are integrated.
 
 8.Sprint duration :2-4 weeks.
 
-
-
-
-Sprint Planning:
-*****************************
+9.Sprint planning : This meeting happens between Product owner+developers+testers. In this meeting we do the following
 1.Understanding user stories.
 2.Estimation: It should be small duration (max duration 2 weeks to 4 weeks why because if time is short we will be more focused).
+
+10. Sprint : It is the duration within which a working software is developed.
+-> Sprint duration always be between 2-4 weeks.
+
+11. Planning Poker activity :
+-> It is a meeting that happens between business analyst and product owner to give the business value points(points to user stories).
+-> To give business value points we use poker cards.
+-> This classification helps us to decide which user story should be develope first.
+
+NOTE : 1. If the work not completed within the sprint duration then we blowup the sprint and again start with new sprint and new estimation.
+       2. A project will have several scrum teams.
+
+
+
+Responsibilities of Scrum master
+*****************************************
+1.Scrum master should generate burn down chart to analyse progress of work.We can also make use of burn up chart but it is not that popular in industry.
+2.He should conduct daily standup meeting.(Standup meeting goes on 15 min).
+3.He should remove the obstacles encountered by the team.
+4.He should promote scrum values.
+
+
 
 
 Steps in agile software development to develop software:
@@ -58,6 +84,8 @@ Expected Questions on Agile:
 **********************************
 1.What is the sprint duration in Agile?
 -> 2-4 weeks.
+  sub question: What if the work is not completed within 2-4 weeks or promised time?
+              ->Blowing up the sprint.(
 
 2. What is the ideal team size or Scrum team size in Agile?
 -> 6-9
