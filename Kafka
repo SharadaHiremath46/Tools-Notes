@@ -1,1 +1,25 @@
+###########################################
+Apache Kafka
+###########################################
+->It acts as mediator to exchange messages(Message Broker)
+->Kafka is very useful for real time data exchange.
+->Publisher will publish the message and subscriber will consume the message.
+->Through kafka real time data exchange will happen without involving database inbetween.
+
+Kafka Architecture:
+***************************
+1.Zookeeper - This provides environment to run.
+2.Kafka Server - This acts as message broker.
+3.Kafka topic - It is used to store and queue messages.
+4.Publisher - This will push messages to kafka topic.
+5.Subscriber - This will fetch the messages that is pushed to kafka by publisher.
+
+
+
+
+
+
+Expected questions for interview:
+***********************************
+1.Architecture of Kafka?
 
