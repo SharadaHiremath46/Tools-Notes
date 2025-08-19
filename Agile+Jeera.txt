@@ -54,7 +54,9 @@ NOTE : 1. If the work not completed within the sprint duration then we blowup th
 
 12. KANBAN chart :To maintain transperancy in agile among team members we prepare kanban chart.6
 
-13.Backlog Grooming: 
+13.Backlog Grooming: It is the meeting where planning poker activity will held to give points to user stories.
+
+14.Sprint : Duration within which all the user stories in sprint backlog arer being develop.
 
 
 
@@ -134,5 +136,10 @@ Expected Questions on Agile:
 
 8.Tell me if your user story point is 3 how many days it will take for you to fix?
 ->In my company for user story point 3 they had allocated one day.For user story point 5 it was given 2 days.If user story point is 8 then it's 8 days.If user story point is 0 then it is 0.5 days.The number of days required for me to basically build that story should be decided in backlog grooming/meeting.
+
+9. There are 4 developers there are 50 user stories how the work is allocated to you?
+-> Sir, My team lead used to send me an email, based on email basically work allocation used to happen.
+
+10. 
 
 
