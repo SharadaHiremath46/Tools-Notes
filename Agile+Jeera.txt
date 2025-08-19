@@ -149,6 +149,20 @@ Expected Questions on Agile:
 ->As a part of my project I was also participating in daily triage calls.
 ->We used to have retrospcet meetings(this meeting includes Identifien the mistakes we done in our previous work.Also the good things we done)
 
+*****************Polished answer******************************************************
+In my company, I was part of different types of meetings:
+
+Townhall Meeting: This was conducted once a month, where all employees, around 15–20 in our case, gathered together. In the townhall, management would share updates about the company’s progress in terms of revenue, newly acquired projects, and overall direction. It also included awards and recognition for employees’ contributions.
+
+Daily Status Call: This was part of my daily routine. In this call, each team member shared updates about what they worked on yesterday, what they planned to complete today, and discussed any blockers or issues. This helped the team stay aligned and support each other.
+
+Daily Triage Calls: As part of my project, I also participated in triage calls, where we discussed open issues, bugs, and their priorities to ensure smooth progress in the project.
+
+Retrospective Meetings: These meetings were conducted at the end of a sprint. The focus was on identifying mistakes or challenges we faced in the previous sprint, as well as highlighting what went well. This helped us improve continuously as a team.
+
+************************************************************************************
+
+
 12. Did you had a client meeting?
 ->No,sir that was not my job so that was the job of business analyst and product owner.They were taking careof it and interacting with client.I never got an opportunity to interact with client.
 
