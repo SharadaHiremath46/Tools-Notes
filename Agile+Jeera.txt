@@ -140,6 +140,16 @@ Expected Questions on Agile:
 9. There are 4 developers there are 50 user stories how the work is allocated to you?
 -> Sir, My team lead used to send me an email, based on email basically work allocation used to happen.
 
-10. 
+10. What is your day to day activity in company?
+->Sir,first thing after going to the office I would check the calender I would see what all meetings are there.I would check my emailers and in the emailers if any emailers got triggered based on what all diffects things and xyz things and any communication I would see that.Then after that I would attend daily status call. In the daily status call we would talk about what work I did yesterday what work I am doing today all these things then after that I would check the jira board,in the jira board now what all user stories are there from that I would then pickup the userstory if nothing is been assign, in my company there was a culture of picking up the user stories assigning then I would start working on those user stories if any bugs are there I would pick that up and start working on it.Whatever in my sprint backlog is there I would take that work and start executing on it.
+
+11. What all meetings were there in your company?
+->Sir,we had a townhall meeting(the townhall meeting is monthly once is to happen in my company where all the company employee would gather in one place so there we didn't had big team 15-20 people we would gather there and there we would talk about what all the progress the company has made interms of revenue,interms of getting new projects what exactly happening and then awards and recognition things would happen in that townhall meeting) .
+->Daily status call was the part of my routine.I would participate in the daily status call where it would help the team members to understand who is working on what so these things we would discuss in the status call what work I have done yesterday what work I will be completing today and if any problems were there I would address that.
+->As a part of my project I was also participating in daily triage calls.
+->We used to have retrospcet meetings(this meeting includes Identifien the mistakes we done in our previous work.Also the good things we done)
+
+12. Did you had a client meeting?
+->No,sir that was not my job so that was the job of business analyst and product owner.They were taking careof it and interacting with client.I never got an opportunity to interact with client.
 
 
