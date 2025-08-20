@@ -1,1 +1,8 @@
+######################################################
+DOCKER
+#####################################################
 
+->Docker provides portability and compatibility to our application to run on different differenet platforms(platform = software + hardware).
+->Setting up and updating environment is easy with docker.
+->In traditional process we need to set up our environment required to run our application in each and every server.In that might also chance of getting a chance of compatibility issue why because we develope our code
+  in windows machine but we deploy our code in linux machine which create compatibility issues.To over come from this we started using docker where we use centralized configuration.
