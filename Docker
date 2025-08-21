@@ -6,3 +6,35 @@ DOCKER
 ->Setting up and updating environment is easy with docker.
 ->In traditional process we need to set up our environment required to run our application in each and every server.In that might also chance of getting a chance of compatibility issue why because we develope our code
   in windows machine but we deploy our code in linux machine which create compatibility issues.To over come from this we started using docker where we use centralized configuration.
+
+
+How to install and create docker container?
+-------------------------------------------------
+1.First create amazon vm(EC2) in AWS.
+2.Then establish ssh connection using git bash and run the below command
+
+sudo yum update -y 
+sudo yum install docker -y
+sudo service docker start
+sudo usermod -aG docker ec2-user
+exit
+
+3.Then go to docker hub website take any one docker hub.
+
+4.In gitbash type the following commands
+->docker pull <image _name> => here image name is name of image in docker hub.
+->docker images        # list downloaded images
+->docker ps            # running containers
+->docker ps -a         # all containers (including stopped)
+ 
+
+5.Then run the docker using below command
+ docker run <image_name>
+
+Note:
+1.docker system prune -a 
+ This will remove all 
+  ->all stopped containers
+  ->all networks not used by at least one container
+  ->all images without at least one container associated to them
+  ->all build cache
